@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Cookie|EB+Garamond|Kaushan+Script|Lobster|Monoton|Satisfy|Tangerine');
+
+/* For Head*/
+.EB_Garamond {
+    font-family: 'EB Garamond', serif;
+}
+
+/*For style head*/
+.Kaushan {
+    font-family: 'Kaushan Script', cursive;
+}
+
+/*For style head*/
+.Lobster {
+    font-family: 'Lobster', cursive;
+}
+
+/*For style head make it line*/
+.Monoton {
+    font-family: 'Monoton', cursive;
+}
+
+/*For lead text*/
+.Cookie {
+    font-family: 'Cookie', cursive;
+    font-size: 1.2rem;
+}
+
+/*For lead text*/
+.Satisfy {
+    font-family: 'Satisfy', cursive;
+}
+
+/*For lead text*/
+.Tangerine {
+    font-family: 'Tangerine', cursive;
+}

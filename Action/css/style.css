@@ -1,0 +1,106 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    z-index: 99px;
+    font-size-adjust: auto;
+}
+
+.mt-5 {
+    padding-top: 10%;
+}
+
+.main {
+    max-width: 700px;
+    margin-left: 10%;
+    padding-left: 10%;
+    font-family: cursive;
+}
+
+@media screen and (max-width:500px) {
+    .clearfix {
+        font-size-adjust: 7px;
+    }
+    .hide {
+        display: none;
+        position: absolute;
+    }
+    .main {
+        margin: 0% 1%;
+    }
+
+    .img {
+        width: 100px;
+        height: auto;
+        float: none;
+        margin: auto;
+    }
+
+    .body {
+        margin: 0px;
+        padding: 0px;
+    }
+}
+
+.body {
+    margin: auto;
+    max-width: 650px;
+    text-align: justify;
+}
+
+.img {
+    width: 250px;
+    height: auto;
+    opacity: 0.8;
+    transition: 2.5s;
+    transform: rotate(2.5s);
+}
+
+.img:hover {
+    background-color: aqua;
+    transition: 2.5s;
+    width: 350px;
+    opacity: 1;
+    image-resolution: snap;
+}
+
+.f-text {
+    font-family: serif;
+    margin: 5% 0px;
+}
+
+.wel {
+    font-size: 30px;
+    font-style: oblique;
+    margin-bottom: 10%;
+}
+
+.vl {
+    border-left: 6px solid #dc3545;
+    height: auto;
+}
+
+cite {
+    color: firebrick;
+    margin: 2px;
+    font-size: 14px;
+    text-decoration: underline;
+    opacity: 0.8;
+}
+
+.main_0 {
+    font-family: fantasy;
+}
+
+.error {
+    border: red;
+    color: red;
+}
+
+success {
+    color: green;
+    border: green;
+}
+#fon {
+    font-size: 24px;
+    font-weight: 600;
+}
